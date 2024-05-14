@@ -304,7 +304,7 @@ header {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  height: 150vh; 
+  height: 160vh; 
   text-align: center;
   background: url(assets/images/back2.jpg);
 }
